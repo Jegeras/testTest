@@ -1,3 +1,5 @@
 # testTest
 testning av git
-nsdmfsdf
+här finns en rad
+
+Nu ändrar jag lite
