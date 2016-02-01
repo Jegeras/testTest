@@ -1,5 +1,6 @@
 # testTest
 testning av git
-här finns en rad
+här finns bajs
 
 Nu ändrar jag lite
+tänkte testa branch
